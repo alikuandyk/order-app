@@ -5,7 +5,7 @@
 1. Установи Docker и docker-compose  
    Убедись, что Docker и docker-compose установлены и работают.
 
-2. Запусти Temporal:
+2. Запусти Temporal:  
    git clone https://github.com/temporalio/docker-compose  
    cd docker-compose  
    docker-compose up -d  
