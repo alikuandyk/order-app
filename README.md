@@ -14,14 +14,14 @@
    Temporal Web UI будет доступен по адресу:  
    http://localhost:8080
 
-3. Склонируй этот проект и собери jar:
+3. Склонируй этот проект и собери jar:  
    mvn clean package
 
-4. Запусти приложение Spring Boot:
+4. Запусти приложение Spring Boot:  
    mvn spring-boot:run
 
 5. Открой Web UI приложения:  
-   http://localhost:8080/index.html
+   http://localhost:8081
 
    - Start — запускает Workflow с workflowId, равным введённому значению.
    - Cancel — отменяет Workflow с тем же workflowId.
