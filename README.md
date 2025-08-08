@@ -6,9 +6,9 @@
    Убедись, что Docker и docker-compose установлены и работают.
 
 2. Запусти Temporal:
-   git clone https://github.com/temporalio/docker-compose
-   cd docker-compose
-   docker-compose up -d
+   git clone https://github.com/temporalio/docker-compose  
+   cd docker-compose  
+   docker-compose up -d  
 
    Дождись, пока все сервисы поднимутся (особенно temporal и temporal-admin).  
    Temporal Web UI будет доступен по адресу:  
